@@ -1,0 +1,35 @@
+/**
+  bootstrap4
+  Core variables and mixins
+  Reset and dependencies
+ */
+@import '~bootstrap/scss/_variables.scss';
+@import '~bootstrap/scss/_mixins.scss';
+@import '~bootstrap/scss/_normalize.scss';
+
+@import '~bootstrap/scss/_grid.scss';
+@import '~bootstrap/scss/_type.scss';
+@import '~bootstrap/scss/_buttons.scss';
+@import '~bootstrap/scss/_modal.scss';
+@import '~bootstrap/scss/_dropdown.scss';
+@import '~bootstrap/scss/_forms.scss';
+@import '~bootstrap/scss/_close.scss';
+
+@import '~bootstrap/scss/_utilities.scss';
+
+/**
+ * 自定义variables
+ */
+@import './variables';
+
+/**
+ * 自定义mixins
+ */
+@import './minxins';
+
+/**
+ * 全站公共的图标文件
+ */
+@import "../font/iconfont1.2.0.css";
+
+
